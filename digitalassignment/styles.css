@@ -1,0 +1,17 @@
+body{
+    background-color:#84e9e9;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#digital{
+    background-color:mintcream;
+    font-size: 100px;
+    border:1px solid black;
+    text-align: center;    
+    border-radius:20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight:bold;
+}
